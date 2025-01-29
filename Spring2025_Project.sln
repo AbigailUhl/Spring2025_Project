@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spring2025_Project", "Spring2025_Project\Spring2025_Project.csproj", "{6BD219AF-A8FB-4760-BE33-0259F216843C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library.eCommerce", "Library.eCommerce\Library.eCommerce.csproj", "{1AA579C3-4A2D-40D3-B254-29B1475541AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BD219AF-A8FB-4760-BE33-0259F216843C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BD219AF-A8FB-4760-BE33-0259F216843C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BD219AF-A8FB-4760-BE33-0259F216843C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BD219AF-A8FB-4760-BE33-0259F216843C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AA579C3-4A2D-40D3-B254-29B1475541AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AA579C3-4A2D-40D3-B254-29B1475541AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AA579C3-4A2D-40D3-B254-29B1475541AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AA579C3-4A2D-40D3-B254-29B1475541AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
