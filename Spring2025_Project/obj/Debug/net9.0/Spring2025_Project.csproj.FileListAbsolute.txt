@@ -12,3 +12,8 @@
 /Users/abbyuhl/RiderProjects/Spring2025_Project/Spring2025_Project/obj/Debug/net9.0/Spring2025_Project.pdb
 /Users/abbyuhl/RiderProjects/Spring2025_Project/Spring2025_Project/obj/Debug/net9.0/Spring2025_Project.genruntimeconfig.cache
 /Users/abbyuhl/RiderProjects/Spring2025_Project/Spring2025_Project/obj/Debug/net9.0/ref/Spring2025_Project.dll
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Spring2025_Project/bin/Debug/net9.0/Library.eCommerce.dll
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Spring2025_Project/bin/Debug/net9.0/Library.eCommerce.pdb
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Spring2025_Project/obj/Debug/net9.0/Spring2025_Project.csproj.AssemblyReference.cache
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Spring2025_Project/obj/Debug/net9.0/Spring2025_Project.sourcelink.json
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Spring2025_Project/obj/Debug/net9.0/Spring20.88E627B6.Up2Date
