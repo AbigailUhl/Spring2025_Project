@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "kkpMrFQl7lE=",
+  "dgSpecHash": "QYuEOgORCGs=",
   "success": true,
   "projectFilePath": "/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/Library.eCommerce.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/abbyuhl/.nuget/packages/microsoft.netcore.app.ref/8.0.14/microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "/Users/abbyuhl/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.14/microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

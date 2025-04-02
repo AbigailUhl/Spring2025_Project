@@ -1,0 +1,12 @@
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/bin/Debug/net8.0/Library.eCommerce.deps.json
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/bin/Debug/net8.0/Library.eCommerce.dll
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/bin/Debug/net8.0/Library.eCommerce.pdb
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0/Library.eCommerce.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0/Library.eCommerce.AssemblyInfoInputs.cache
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0/Library.eCommerce.AssemblyInfo.cs
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0/Library.eCommerce.csproj.CoreCompileInputs.cache
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0/Library.eCommerce.sourcelink.json
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0/Library.eCommerce.dll
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0/refint/Library.eCommerce.dll
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0/Library.eCommerce.pdb
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0/ref/Library.eCommerce.dll

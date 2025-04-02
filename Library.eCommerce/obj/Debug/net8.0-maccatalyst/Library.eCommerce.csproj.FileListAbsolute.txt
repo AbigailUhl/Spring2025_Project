@@ -1,0 +1,8 @@
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0-maccatalyst/actool/_PartialAppManifest.items
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0-maccatalyst/actool/_BundleResourceWithLogicalName.items
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0-maccatalyst/actool/_ProcessedImageAssetsPath.items
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0-maccatalyst/coremlc/_PartialAppManifest.items
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0-maccatalyst/coremlc/_BundleResourceWithLogicalName.items
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0-maccatalyst/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0-maccatalyst/_ProcessedBundleResourcesPath.items
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0-maccatalyst/_ProcessedContentPath.items
