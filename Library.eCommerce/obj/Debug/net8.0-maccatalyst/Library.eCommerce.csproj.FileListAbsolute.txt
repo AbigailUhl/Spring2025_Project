@@ -6,3 +6,14 @@
 /Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0-maccatalyst/coremlc/_ProcessedCoreMLModelsPath.items
 /Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0-maccatalyst/_ProcessedBundleResourcesPath.items
 /Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0-maccatalyst/_ProcessedContentPath.items
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/bin/Debug/net8.0-maccatalyst/Library.eCommerce.dll
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/bin/Debug/net8.0-maccatalyst/Library.eCommerce.pdb
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0-maccatalyst/Library.eCommerce.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0-maccatalyst/Library.eCommerce.AssemblyInfoInputs.cache
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0-maccatalyst/Library.eCommerce.AssemblyInfo.cs
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0-maccatalyst/Library.eCommerce.csproj.CoreCompileInputs.cache
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0-maccatalyst/Library.eCommerce.sourcelink.json
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0-maccatalyst/Library.eCommerce.dll
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0-maccatalyst/refint/Library.eCommerce.dll
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0-maccatalyst/Library.eCommerce.pdb
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/obj/Debug/net8.0-maccatalyst/ref/Library.eCommerce.dll

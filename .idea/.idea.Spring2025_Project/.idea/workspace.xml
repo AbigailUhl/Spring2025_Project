@@ -16,37 +16,157 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e4e23a6-e3d0-4785-932a-184a6083ecc9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Maui.eCommerceV3/ViewModels/MainViewModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maui.eCommerceV3/Views/ShopManagementView.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maui.eCommerceV3/Views/ShopManagementView.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maui.eCommerceV3/ViewModels/InventoryManagementViewModel.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Spring2025_Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Spring2025_Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/AppShell.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/AppShell.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/MainPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/MainPage.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library.eCommerce/Library.eCommerce.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/Library.eCommerce.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library.eCommerce/Services/ProductServiceProxy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/Services/ProductServiceProxy.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library.eCommerce/bin/Debug/net8.0/Library.eCommerce.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/bin/Debug/net8.0/Library.eCommerce.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library.eCommerce/bin/Debug/net8.0/Library.eCommerce.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/bin/Debug/net8.0/Library.eCommerce.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0-maccatalyst/Library.eCommerce.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0-maccatalyst/Library.eCommerce.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0-maccatalyst/Library.eCommerce.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0-maccatalyst/Library.eCommerce.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0-maccatalyst/Library.eCommerce.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0-maccatalyst/Library.eCommerce.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0/Library.eCommerce.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0/Library.eCommerce.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0/Library.eCommerce.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0/Library.eCommerce.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0/Library.eCommerce.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0/Library.eCommerce.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0/Library.eCommerce.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0/Library.eCommerce.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0/Library.eCommerce.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0/Library.eCommerce.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0/ref/Library.eCommerce.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0/ref/Library.eCommerce.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0/refint/Library.eCommerce.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0/refint/Library.eCommerce.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library.eCommerce/obj/Library.eCommerce.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/obj/Library.eCommerce.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library.eCommerce/obj/Library.eCommerce.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/obj/Library.eCommerce.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library.eCommerce/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library.eCommerce/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library.eCommerce/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library.eCommerce/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library.eCommerce/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/MainPage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/MainPage.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/Views/InventoryManagementView.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/Views/InventoryManagementView.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/Views/InventoryManagementView.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/Views/InventoryManagementView.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Library.eCommerce.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Library.eCommerce.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Library.eCommerce.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Library.eCommerce.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.app/Contents/MacOS/Maui.eCommerceV3" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.app/Contents/MacOS/Maui.eCommerceV3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.app/Contents/MonoBundle/Library.eCommerce.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.app/Contents/MonoBundle/Library.eCommerce.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.app/Contents/MonoBundle/Library.eCommerce.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.app/Contents/MonoBundle/Library.eCommerce.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.app/Contents/MonoBundle/Maui.eCommerceV3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.app/Contents/MonoBundle/Maui.eCommerceV3.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.app/Contents/MonoBundle/Maui.eCommerceV3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.app/Contents/MonoBundle/Maui.eCommerceV3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.app/Contents/MonoBundle/aot-instances.aotdata.arm64" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.app/Contents/MonoBundle/aot-instances.aotdata.arm64" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.app/Contents/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.app/Contents/_CodeSignature/CodeResources" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/Maui.eCommerceV3.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/Maui.eCommerceV3.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/Maui.eCommerceV3.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/Maui.eCommerceV3.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/Maui.eCommerceV3.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/Maui.eCommerceV3.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/Maui.eCommerceV3.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/Maui.eCommerceV3.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/_Microsoft.Android.Resource.Designer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/_Microsoft.Android.Resource.Designer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/designtime/libraryprojectimports.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/designtime/libraryprojectimports.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/101/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/101/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/102/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/102/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/103/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/103/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/104/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/104/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/105/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/105/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/106/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/106/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/108/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/108/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/109/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/109/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/110/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/110/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/111/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/111/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/114/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/114/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/116/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/116/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/117/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/117/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/120/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/120/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/121/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/121/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/123/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/123/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/125/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/125/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/126/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/126/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/127/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/127/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/128/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/128/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/129/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/129/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/130/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/130/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/131/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/131/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/132/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/132/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/133/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/133/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/134/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/134/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/135/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/135/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/136/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/136/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/137/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/137/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/138/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/138/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/139/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/139/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/140/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/140/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/141/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/141/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/142/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/142/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/143/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/143/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/144/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/144/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/145/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/145/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/146/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/146/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/148/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/148/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/150/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/150/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/153/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/153/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/153/jl/res/layout/tabbar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/153/jl/res/layout/tabbar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/153/jl/res/values/attrs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/153/jl/res/values/attrs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/153/jl/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/153/jl/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/154/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/154/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/154/jl/res/layout/flyoutcontent.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/154/jl/res/layout/flyoutcontent.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/154/jl/res/layout/shellcontent.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/154/jl/res/layout/shellcontent.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/155/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/155/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/155/jl/res/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/155/jl/res/values/values.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/156/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/156/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/156/jl/res/layout/drawer_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/156/jl/res/layout/drawer_layout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/156/jl/res/layout/fragment_backstack.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/156/jl/res/layout/fragment_backstack.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/156/jl/res/layout/navigationlayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/156/jl/res/layout/navigationlayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/157/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/157/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/91/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/91/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/92/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/92/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/93/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/93/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/94/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/94/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/95/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/95/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/97/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/97/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/98/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/lp/98/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/resizetizer/r/mipmap-anydpi-v26/appicon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/resizetizer/r/mipmap-anydpi-v26/appicon.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/resizetizer/r/mipmap-anydpi-v26/appicon_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/resizetizer/r/mipmap-anydpi-v26/appicon_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/resizetizer/sp/drawable-v31/maui_splash_image.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/resizetizer/sp/drawable-v31/maui_splash_image.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/resizetizer/sp/drawable/maui_splash_image.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/resizetizer/sp/drawable/maui_splash_image.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/resizetizer/sp/values/maui_colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/resizetizer/sp/values/maui_colors.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-ios/iossimulator-arm64/Maui.eCommerceV3.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-ios/iossimulator-arm64/Maui.eCommerceV3.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-ios/iossimulator-arm64/Maui.eCommerceV3.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-ios/iossimulator-arm64/Maui.eCommerceV3.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-ios/iossimulator-arm64/Maui.eCommerceV3.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-ios/iossimulator-arm64/Maui.eCommerceV3.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-ios/iossimulator-arm64/Maui.eCommerceV3.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-ios/iossimulator-arm64/Maui.eCommerceV3.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/linked/Library.eCommerce.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/linked/Library.eCommerce.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/linked/Library.eCommerce.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/linked/Library.eCommerce.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/linked/Maui.eCommerceV3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/linked/Maui.eCommerceV3.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/linked/Maui.eCommerceV3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/linked/Maui.eCommerceV3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/nativelibraries/Maui.eCommerceV3" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/nativelibraries/Maui.eCommerceV3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/nativelibraries/aot-output/arm64/System.Private.CoreLib.dll.o" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/nativelibraries/aot-output/arm64/System.Private.CoreLib.dll.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/nativelibraries/aot-output/arm64/System.Private.CoreLib.dll.s" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/nativelibraries/aot-output/arm64/System.Private.CoreLib.dll.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/nativelibraries/aot-output/arm64/aot-instances.aotdata" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/nativelibraries/aot-output/arm64/aot-instances.aotdata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/nativelibraries/aot-output/arm64/aot-instances.dll.o" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/nativelibraries/aot-output/arm64/aot-instances.dll.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/nativelibraries/aot-output/arm64/aot-instances.dll.s" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/nativelibraries/aot-output/arm64/aot-instances.dll.s" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/ref/Maui.eCommerceV3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/ref/Maui.eCommerceV3.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/refint/Maui.eCommerceV3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/refint/Maui.eCommerceV3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Maui.eCommerceV3.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Maui.eCommerceV3.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring2025_Project/bin/Debug/net9.0/Library.eCommerce.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Spring2025_Project/bin/Debug/net9.0/Library.eCommerce.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring2025_Project/bin/Debug/net9.0/Library.eCommerce.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Spring2025_Project/bin/Debug/net9.0/Library.eCommerce.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring2025_Project/bin/Debug/net9.0/Spring2025_Project.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Spring2025_Project/bin/Debug/net9.0/Spring2025_Project.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring2025_Project/bin/Debug/net9.0/Spring2025_Project.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Spring2025_Project/bin/Debug/net9.0/Spring2025_Project.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring2025_Project/obj/Debug/net9.0/Spring2025_Project.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Spring2025_Project/obj/Debug/net9.0/Spring2025_Project.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring2025_Project/obj/Debug/net9.0/Spring2025_Project.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Spring2025_Project/obj/Debug/net9.0/Spring2025_Project.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring2025_Project/obj/Debug/net9.0/Spring2025_Project.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Spring2025_Project/obj/Debug/net9.0/Spring2025_Project.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring2025_Project/obj/Debug/net9.0/Spring2025_Project.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Spring2025_Project/obj/Debug/net9.0/Spring2025_Project.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring2025_Project/obj/Debug/net9.0/Spring2025_Project.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Spring2025_Project/obj/Debug/net9.0/Spring2025_Project.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring2025_Project/obj/Debug/net9.0/Spring2025_Project.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spring2025_Project/obj/Debug/net9.0/Spring2025_Project.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring2025_Project/obj/Debug/net9.0/ref/Spring2025_Project.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Spring2025_Project/obj/Debug/net9.0/ref/Spring2025_Project.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring2025_Project/obj/Debug/net9.0/refint/Spring2025_Project.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Spring2025_Project/obj/Debug/net9.0/refint/Spring2025_Project.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring2025_Project/obj/Spring2025_Project.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spring2025_Project/obj/Spring2025_Project.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring2025_Project/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Spring2025_Project/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring2025_Project/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Spring2025_Project/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +200,7 @@
       <facet id="Maui.eCommerceV3/invalid/Android Facet - Maui.eCommerceV3" />
     </ignored-facets>
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="SWEA" />
   </component>
@@ -92,24 +213,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.Maui.eCommerce: Windows Machine.executor": "Run",
-    ".NET Project.Spring2025_Project.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "1__ConsolidateCRUD",
-    "iOS.Maui.eCommerceV3.executor": "Run",
-    "macOS.Maui.eCommerceV3.executor": "Run",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.Maui.eCommerce: Windows Machine.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.Spring2025_Project.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;1__ConsolidateCRUD&quot;,
+    &quot;iOS.Maui.eCommerceV3.executor&quot;: &quot;Run&quot;,
+    &quot;macOS.Maui.eCommerceV3.executor&quot;: &quot;Run&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.smartKeys_rider&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="macOS.Maui.eCommerceV3">
     <configuration name="Spring2025_Project" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -178,13 +299,16 @@
       <workItem from="1742850548296" duration="724000" />
       <workItem from="1743536329832" duration="671000" />
       <workItem from="1743635653572" duration="1180000" />
-      <workItem from="1743636839943" duration="7275000" />
+      <workItem from="1743636839943" duration="7488000" />
+      <workItem from="1744044460210" duration="5918000" />
+      <workItem from="1744057764636" duration="1941000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

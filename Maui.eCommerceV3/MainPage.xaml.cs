@@ -13,7 +13,7 @@ public partial class MainPage : ContentPage
         BindingContext = new MainViewModel();
     }
     
-    private void InventoryClicked(object sender, EventArgs e)
+     private void InventoryClicked(object sender, EventArgs e)
     {
         Shell.Current.GoToAsync("//InventoryManagement");
     }
