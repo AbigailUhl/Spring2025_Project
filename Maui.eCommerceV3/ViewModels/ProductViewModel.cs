@@ -1,4 +1,5 @@
 using Spring2025_Project.Models;
+using Library.eCommerce.Services;
 
 namespace Maui.eCommerceV3.ViewModels;
 
@@ -24,6 +25,11 @@ public class ProductViewModel
     public ProductViewModel()
     {
         Model = new Product();
+    }
+
+    public void AddOrUpdate()
+    {
+        ProductServiceProxy.Current.AddOrUpdate(Model);
     }
 
     public ProductViewModel(Product? model)

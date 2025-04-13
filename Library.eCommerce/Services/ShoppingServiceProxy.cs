@@ -44,7 +44,7 @@ namespace Library.eCommerce.Services
             if (product != null)
             {
                 ShoppingCart.Remove(product);
-                ProductServiceProxy.Current.AddorUpdate(product);
+                ProductServiceProxy.Current.AddOrUpdate(product);
             }
             return product;
         }

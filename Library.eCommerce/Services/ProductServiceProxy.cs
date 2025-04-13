@@ -44,7 +44,7 @@ namespace Library.eCommerce.Services
         }
         public List<Product?> Products { get; private set; }
 
-        public Product AddorUpdate(Product product)
+        public Product AddOrUpdate(Product product)
         {
             if (product.Id == 0)
             {

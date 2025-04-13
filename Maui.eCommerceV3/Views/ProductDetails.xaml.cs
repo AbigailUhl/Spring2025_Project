@@ -22,8 +22,7 @@ public partial class ProductDetails : ContentPage
     
     private void OkClicked(object sender, EventArgs e)
     {
-        var name = (BindingContext as ProductViewModel).Name;
-        ProductServiceProxy.Current.AddorUpdate(new Product { Name = name });
+        (BindingContext as ProductViewModel).AddOrUpdate();
         Shell.Current.GoToAsync("//InventoryManagement");
     }
 
