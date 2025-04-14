@@ -9,22 +9,22 @@ public class ProductViewModel
     {
         get
         {
-            return Model?.Name ?? string.Empty;
+            return Model?.Product?.Name ?? string.Empty;
         }
         set
         {
-            if (Model != null && Model.Name != value)
+            if (Model != null && Model.Product?.Name != value)
             {
-                Model.Name = value;
+                Model.Product.Name = value;
             }
         }
     }
     
-    public Product? Model { get; set; }
+    public Item? Model { get; set; }
 
     public ProductViewModel()
     {
-        Model = new Product();
+        Model = new Item();
     }
 
     public void AddOrUpdate()
@@ -32,7 +32,7 @@ public class ProductViewModel
         ProductServiceProxy.Current.AddOrUpdate(Model);
     }
 
-    public ProductViewModel(Product? model)
+    public ProductViewModel(Item? model)
     {
         Model = model;
     }
