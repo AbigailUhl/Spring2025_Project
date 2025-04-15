@@ -36,6 +36,7 @@ public partial class InventoryManagementView : ContentPage
     {
         var productId = (BindingContext as InventoryManagementViewModel)?.SelectedProduct?.Id;
         Shell.Current.GoToAsync($"//Product?productId={productId}");
+        
     }
     
     private void ContentPage_NavigatedTo(object sender, NavigatedToEventArgs e)

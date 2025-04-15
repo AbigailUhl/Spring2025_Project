@@ -1,5 +1,6 @@
 using Spring2025_Project.Models;
 using Library.eCommerce.Services;
+using Library.eCommerce.Models;
 
 namespace Maui.eCommerceV3.ViewModels;
 
@@ -16,6 +17,21 @@ public class ProductViewModel
             if (Model != null && Model.Product?.Name != value)
             {
                 Model.Product.Name = value;
+            }
+        }
+    }
+
+    public int? Quantity
+    {
+        get
+        {
+            return Model?.Quantity;
+        }
+        set
+        {
+            if (Model != null && Model.Quantity != value)
+            {
+                Model.Quantity = value;
             }
         }
     }

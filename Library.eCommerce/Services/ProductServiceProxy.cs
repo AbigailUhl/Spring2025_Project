@@ -1,4 +1,11 @@
 using Spring2025_Project.Models;
+using Library.eCommerce.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net;
+using System.Text;
+using System.Threading.Tasks;
 namespace Library.eCommerce.Services
 {
     public class ProductServiceProxy

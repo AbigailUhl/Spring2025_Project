@@ -2,7 +2,7 @@ using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
 using Library.eCommerce.Services;
-using Spring2025_Project.Models;
+using Library.eCommerce.Models;
 
 namespace Maui.eCommerceV3.ViewModels;
 
