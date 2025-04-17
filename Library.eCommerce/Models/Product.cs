@@ -17,6 +17,12 @@ namespace Spring2025_Project.Models
             Name = string.Empty; 
         }
 
+        public Product(Product p)
+        {
+            Id = p.Id;
+            Name = p.Name;
+        }
+
         public override string ToString()
         {
             return Display ?? string.Empty;

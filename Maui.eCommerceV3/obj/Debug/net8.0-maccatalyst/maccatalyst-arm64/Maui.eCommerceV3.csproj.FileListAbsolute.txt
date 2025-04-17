@@ -302,3 +302,4 @@
 /Users/abbyuhl/RiderProjects/Spring2025_Project/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.pdb
 /Users/abbyuhl/RiderProjects/Spring2025_Project/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.genruntimeconfig.cache
 /Users/abbyuhl/RiderProjects/Spring2025_Project/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/ref/Maui.eCommerceV3.dll
+/Users/abbyuhl/RiderProjects/Spring2025_Project/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Library.eCommerce.stamp

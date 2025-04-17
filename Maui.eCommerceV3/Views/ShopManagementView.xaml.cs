@@ -17,6 +17,12 @@ public partial class ShopManagementView : ContentPage
 
     private void AddToCartClicked(object sender, EventArgs e)
     {
-        
+        (BindingContext as ShopManagementViewModel).PurchaseItem();
     }
+
+    private void RemoveFromCartClicked(object sender, EventArgs e)
+    {
+        (BindingContext as ShopManagementViewModel).ReturnItem();
+    }
+    
 }
