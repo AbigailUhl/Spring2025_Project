@@ -3,6 +3,12 @@ using System.ComponentModel;
 using System.Runtime.CompilerServices;
 using Library.eCommerce.Services;
 using Library.eCommerce.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Spring2025_Project.Models;
 
 namespace Maui.eCommerceV3.ViewModels;
 
@@ -31,7 +37,7 @@ public class InventoryManagementViewModel : INotifyPropertyChanged
     {
         get
         {
-            var filteredList = _svc.Products.Where(p=> p?.Product?.Name?.ToLower().Contains(Query?.ToLower() ?? string.Empty) ?? false);
+            var filteredList = _svc.Products.Where(p => p?.Product?.Name?.ToLower().Contains(Query?.ToLower() ?? string.Empty) ?? false);
             return new ObservableCollection<Item?>(filteredList);
         }
     }

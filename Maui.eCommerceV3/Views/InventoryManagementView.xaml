@@ -3,8 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Maui.eCommerceV3.Views.InventoryManagementView"
              Title="InventoryManagementView"
-             NavigatedTo="ContentPage_NavigatedTo"
-             >
+             NavigatedTo="ContentPage_NavigatedTo" >
     <VerticalStackLayout>
         <Grid>
             <Grid.ColumnDefinitions>
@@ -16,12 +15,14 @@
         </Grid>
         <ListView
             ItemsSource="{Binding Path=Products}"
-            SelectedItem="{Binding SelectedProduct}"
-            >
+            SelectedItem="{Binding SelectedProduct}" >
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
                         <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="10*"/>
+                            </Grid.ColumnDefinitions>
                             <Label Grid.Column="0" Text="{Binding Display}" />
                         </Grid>
                     </ViewCell>

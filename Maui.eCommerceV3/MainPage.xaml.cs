@@ -1,4 +1,6 @@
-﻿using Maui.eCommerceV3.ViewModels;
+﻿using System;
+using Maui.eCommerceV3.ViewModels;
+using Microsoft.Maui.Controls;
 using Spring2025_Project.Models;
 
 namespace Maui.eCommerceV3;

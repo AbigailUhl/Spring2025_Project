@@ -44,7 +44,7 @@ public class ShopManagementViewModel : INotifyPropertyChanged
         NotifyPropertyChanged(nameof(Inventory));
         NotifyPropertyChanged(nameof(ShoppingCart));
     }
-
+    
     public void PurchaseItem()
     {
         if (SelectedItem != null)
@@ -65,7 +65,6 @@ public class ShopManagementViewModel : INotifyPropertyChanged
         {
             var shouldRefresh= SelectedCartItem.Quantity >= 1;
             var updatedItem = _cartSvc.ReturnItem(SelectedCartItem);
-            
             if (updatedItem != null && shouldRefresh)
             {
                 NotifyPropertyChanged(nameof(Inventory));

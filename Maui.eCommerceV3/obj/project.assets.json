@@ -2210,6 +2210,9 @@
       "Library.eCommerce/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Maui.Controls": "8.0.100"
+        },
         "compile": {
           "bin/placeholder/Library.eCommerce.dll": {}
         },
@@ -4427,6 +4430,9 @@
       "Library.eCommerce/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Maui.Controls": "8.0.100"
+        },
         "compile": {
           "bin/placeholder/Library.eCommerce.dll": {}
         },
@@ -6644,6 +6650,9 @@
       "Library.eCommerce/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Maui.Controls": "8.0.100"
+        },
         "compile": {
           "bin/placeholder/Library.eCommerce.dll": {}
         },
@@ -8861,6 +8870,9 @@
       "Library.eCommerce/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Maui.Controls": "8.0.100"
+        },
         "compile": {
           "bin/placeholder/Library.eCommerce.dll": {}
         },
@@ -11078,6 +11090,9 @@
       "Library.eCommerce/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Maui.Controls": "8.0.100"
+        },
         "compile": {
           "bin/placeholder/Library.eCommerce.dll": {}
         },
@@ -13295,6 +13310,9 @@
       "Library.eCommerce/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Maui.Controls": "8.0.100"
+        },
         "compile": {
           "bin/placeholder/Library.eCommerce.dll": {}
         },
@@ -15512,6 +15530,9 @@
       "Library.eCommerce/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Maui.Controls": "8.0.100"
+        },
         "compile": {
           "bin/placeholder/Library.eCommerce.dll": {}
         },
@@ -15943,6 +15964,9 @@
       "Library.eCommerce/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Maui.Controls": "8.0.100"
+        },
         "compile": {
           "bin/placeholder/Library.eCommerce.dll": {}
         },
@@ -16374,6 +16398,9 @@
       "Library.eCommerce/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Maui.Controls": "8.0.100"
+        },
         "compile": {
           "bin/placeholder/Library.eCommerce.dll": {}
         },
@@ -16805,6 +16832,9 @@
       "Library.eCommerce/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Maui.Controls": "8.0.100"
+        },
         "compile": {
           "bin/placeholder/Library.eCommerce.dll": {}
         },
@@ -17236,6 +17266,9 @@
       "Library.eCommerce/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Maui.Controls": "8.0.100"
+        },
         "compile": {
           "bin/placeholder/Library.eCommerce.dll": {}
         },
@@ -17667,6 +17700,9 @@
       "Library.eCommerce/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Maui.Controls": "8.0.100"
+        },
         "compile": {
           "bin/placeholder/Library.eCommerce.dll": {}
         },
@@ -18098,6 +18134,9 @@
       "Library.eCommerce/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Maui.Controls": "8.0.100"
+        },
         "compile": {
           "bin/placeholder/Library.eCommerce.dll": {}
         },
@@ -18529,6 +18568,9 @@
       "Library.eCommerce/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Maui.Controls": "8.0.100"
+        },
         "compile": {
           "bin/placeholder/Library.eCommerce.dll": {}
         },
@@ -18960,6 +19002,9 @@
       "Library.eCommerce/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Maui.Controls": "8.0.100"
+        },
         "compile": {
           "bin/placeholder/Library.eCommerce.dll": {}
         },
@@ -19391,6 +19436,9 @@
       "Library.eCommerce/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Maui.Controls": "8.0.100"
+        },
         "compile": {
           "bin/placeholder/Library.eCommerce.dll": {}
         },
@@ -19822,6 +19870,9 @@
       "Library.eCommerce/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Maui.Controls": "8.0.100"
+        },
         "compile": {
           "bin/placeholder/Library.eCommerce.dll": {}
         },
@@ -20253,6 +20304,9 @@
       "Library.eCommerce/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Maui.Controls": "8.0.100"
+        },
         "compile": {
           "bin/placeholder/Library.eCommerce.dll": {}
         },
@@ -20684,6 +20738,9 @@
       "Library.eCommerce/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Maui.Controls": "8.0.100"
+        },
         "compile": {
           "bin/placeholder/Library.eCommerce.dll": {}
         },
@@ -21115,6 +21172,9 @@
       "Library.eCommerce/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Maui.Controls": "8.0.100"
+        },
         "compile": {
           "bin/placeholder/Library.eCommerce.dll": {}
         },
@@ -21546,6 +21606,9 @@
       "Library.eCommerce/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Maui.Controls": "8.0.100"
+        },
         "compile": {
           "bin/placeholder/Library.eCommerce.dll": {}
         },

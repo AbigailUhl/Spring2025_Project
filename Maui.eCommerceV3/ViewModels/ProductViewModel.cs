@@ -2,65 +2,63 @@ using Spring2025_Project.Models;
 using Library.eCommerce.Services;
 using Library.eCommerce.Models;
 
-namespace Maui.eCommerceV3.ViewModels;
-
-public class ProductViewModel
+namespace Maui.eCommerceV3.ViewModels
 {
-    private Item? cachedModel { get; set; }
-    public string? Name
+    public class ProductViewModel
     {
-        get
+        private Item? cachedModel { get; set; }
+
+        public string? Name
         {
-            return Model?.Product?.Name ?? string.Empty;
-        }
-        set
-        {
-            if (Model != null && Model.Product?.Name != value)
+            get
             {
-                Model.Product.Name = value;
+                return Model?.Product?.Name ?? string.Empty;
+            }
+            set
+            {
+                if (Model != null && Model.Product?.Name != value)
+                {
+                    Model.Product.Name = value;
+                }
             }
         }
-    }
 
-    public int? Quantity
-    {
-        get
+        public int? Quantity
         {
-            return Model?.Quantity;
-        }
-        set
-        {
-            if (Model != null && Model.Quantity != value)
+            get
             {
-                Model.Quantity = value;
+                return Model?.Quantity; 
+            }
+            set
+            {
+                if (Model != null && Model.Quantity != value)
+                {
+                    Model.Quantity = value;
+                }
             }
         }
-    }
-    
-    public Item? Model { get; set; }
 
-    public ProductViewModel()
-    {
-        Model = new Item();
-        cachedModel = null;
-    }
-
-    public void AddOrUpdate()
-    {
-        ProductServiceProxy.Current.AddOrUpdate(Model);
-    }
-
-    public ProductViewModel(Item? model)
-    {
-        Model = model;
-        if (model != null)
+        public Item? Model { get; set; }
+        public void AddOrUpdate()
         {
-            cachedModel = new Item(model);
+            ProductServiceProxy.Current.AddOrUpdate(Model);
         }
-    }
-
-    public void Undo()
-    {
-       ProductServiceProxy.Current.AddOrUpdate(cachedModel);
+        public void Undo()
+        {
+            ProductServiceProxy.Current.AddOrUpdate(cachedModel);
+        }
+        public ProductViewModel()
+        {
+            Model = new Item();
+            cachedModel = null;
+        }
+        public ProductViewModel(Item? model)
+        {
+            Model = model;
+            if (model != null)
+            {
+                cachedModel = new Item(model);
+            }
+        }
     }
 } 
