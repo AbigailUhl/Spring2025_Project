@@ -60,5 +60,17 @@ namespace Maui.eCommerceV3.ViewModels
                 cachedModel = new Item(model);
             }
         }
+        
+        public decimal? Price
+        {
+            get => Model?.Product?.Price ?? 0;
+            set
+            {
+                if (Model != null && Model.Product != null && Model.Product.Price != value)
+                {
+                    Model.Product.Price = value ?? 0;
+                }
+            }
+        }
     }
 } 

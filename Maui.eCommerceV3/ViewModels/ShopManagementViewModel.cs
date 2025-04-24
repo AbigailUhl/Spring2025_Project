@@ -14,18 +14,33 @@ public class ShopManagementViewModel : INotifyPropertyChanged
     private ShoppingServiceProxy _cartSvc = ShoppingServiceProxy.Current;
     public Item? SelectedItem { get; set; }
     public Item? SelectedCartItem { get; set; }
+    public string SortOption { get; set; } = null; 
     public ObservableCollection<Item?> Inventory
     {
         get
         {
-            return new ObservableCollection<Item?>(_invSvc.Products.Where(i => i?.Quantity > 0));
+            var filtered = _invSvc.Products.Where(i => i?.Quantity > 0);
+            IEnumerable<Item?> sorted = filtered;
+
+            if (!string.IsNullOrEmpty(SortOption))
+            {
+                sorted = SortOption switch
+                {
+                    "Price: Low to High" => filtered.OrderBy(i => i?.Product?.Price),
+                    "Price: High to Low" => filtered.OrderByDescending(i => i?.Product?.Price),
+                    "Alphabetical (A-Z)" => filtered.OrderBy(i => i?.Product?.Name),
+                    _ => filtered
+                };
+            }
+            return new ObservableCollection<Item?>(sorted);
         }
     }
     public ObservableCollection<Item?> ShoppingCart
     {
         get
         {
-            return new ObservableCollection<Item?>(_cartSvc.CartItems.Where(i => i?.Quantity > 0));
+            var filtered = _cartSvc.CartItems.Where(i => i?.Quantity > 0);
+            return new ObservableCollection<Item?>(filtered);
         }
     }
     
@@ -49,13 +64,16 @@ public class ShopManagementViewModel : INotifyPropertyChanged
     {
         if (SelectedItem != null)
         {
-            var shouldRefresh= SelectedItem.Quantity >= 1;
-            var updatedItem = _cartSvc.AddOrUpdate(SelectedItem);
-            if (updatedItem != null && shouldRefresh)
+            if (SelectedItem.InlineQuantity <= 0)
+                SelectedItem.InlineQuantity = 1;
+
+            for (int i = 0; i < SelectedItem.InlineQuantity; i++)
             {
-                NotifyPropertyChanged(nameof(Inventory));
-                NotifyPropertyChanged(nameof(ShoppingCart));
+                _cartSvc.AddOrUpdate(SelectedItem);
             }
+
+            NotifyPropertyChanged(nameof(Inventory));
+            NotifyPropertyChanged(nameof(ShoppingCart));
         }
     }
 

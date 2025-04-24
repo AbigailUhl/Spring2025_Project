@@ -48,4 +48,34 @@ public partial class InventoryManagementView : ContentPage
     {
         (BindingContext as InventoryManagementViewModel)?.RefreshProductList();
     }
+    
+    private void SortChanged(object sender, EventArgs e)
+    {
+        var picker = sender as Picker;
+        var selected = picker?.SelectedItem?.ToString();
+
+        var vm = BindingContext as InventoryManagementViewModel;
+        if (vm != null && !string.IsNullOrEmpty(selected))
+        {
+            vm.SortOption = selected;
+            vm.NotifyPropertyChanged(nameof(vm.Products));
+        }
+    }
+    private async void ShowSortOptions(object sender, EventArgs e)
+    {
+        string action = await DisplayActionSheet("Sort Inventory By", "Cancel", null,
+            "Alphabetical (A-Z)",
+            "Price: Low to High",
+            "Price: High to Low");
+
+        if (action == "Cancel" || string.IsNullOrEmpty(action))
+            return;
+
+        var vm = BindingContext as InventoryManagementViewModel;
+        if (vm != null)
+        {
+            vm.SortOption = action;
+            vm.NotifyPropertyChanged(nameof(vm.Products));
+        }
+    }
 }

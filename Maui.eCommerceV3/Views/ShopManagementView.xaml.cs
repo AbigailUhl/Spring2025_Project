@@ -28,11 +28,39 @@ public partial class ShopManagementView : ContentPage
 
     private void InLineAddClicked(object sender, EventArgs e)
     {
-        (BindingContext as ShopManagementViewModel).RefreshUX();
+        (BindingContext as ShopManagementViewModel).PurchaseItem();
     }
 
     private void CancelClicked(object sender, EventArgs e)
     {
         Shell.Current.GoToAsync("//MainPage");
+    }
+    
+    private void ContentPage_NavigatedTo(object sender, NavigatedToEventArgs e)
+    {
+        (BindingContext as ShopManagementViewModel)?.RefreshUX();
+    }
+    private async void ShowSortOptions(object sender, EventArgs e)
+    {
+        string action = await DisplayActionSheet("Sort Inventory By", "Cancel", null,
+            "Alphabetical (A-Z)",
+            "Price: Low to High",
+            "Price: High to Low");
+
+        if (action == "Cancel" || string.IsNullOrEmpty(action))
+            return;
+
+        var vm = BindingContext as ShopManagementViewModel;
+        if (vm != null)
+        {
+            vm.SortOption = action;
+            vm.NotifyPropertyChanged(nameof(vm.Inventory));
+            vm.NotifyPropertyChanged(nameof(vm.ShoppingCart));
+        }
+    }
+
+    private void BuyClicked(object sender, EventArgs e)
+    {
+        Shell.Current.GoToAsync("//Checkout");
     }
 }

@@ -11,11 +11,12 @@ public class ProductDTO
 {
     public int Id { get; set; }
     public String? Name { get; set; }
+    public decimal Price { get; set; }
     public string? Display
     {
         get
         {
-            return $"{Id}. {Name}";
+            return $"{Id}. {Name} - ${Price:F2}";
         }
     }
     public ProductDTO()
@@ -27,12 +28,14 @@ public class ProductDTO
     {
         Name = p.Name;
         Id = p.Id;
+        Price = p.Price;
     }
 
     public ProductDTO(ProductDTO p)
     {
         Id = p.Id;
         Name = p.Name;
+        Price = p.Price;
     }
 
     public override string ToString()

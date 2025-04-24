@@ -63,9 +63,12 @@ namespace Library.eCommerce.Services
             } else
             {
                 var existingItem = Products.FirstOrDefault(p => p.Id == item.Id);
-                var index = Products.IndexOf(existingItem);
-                Products.RemoveAt(index);
-                Products.Insert(index,new Item(item));
+                if (existingItem != null)
+                {
+                    existingItem.Product.Name = item.Product.Name;
+                    existingItem.Product.Price = item.Product.Price;
+                    existingItem.Quantity = item.Quantity;
+                }
             }
             return item;
         }

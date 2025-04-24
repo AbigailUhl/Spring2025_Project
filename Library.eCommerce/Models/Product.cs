@@ -6,6 +6,7 @@ namespace Spring2025_Project.Models
     {
         public int Id { get; set; }
         public String? Name { get; set; }
+        public decimal Price { get; set; }
 
         public string? Display
         {

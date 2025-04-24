@@ -24,5 +24,9 @@ public partial class MainPage : ContentPage
     {
         Shell.Current.GoToAsync("//ShopManagement");
     }
+    private void TaxConfigClicked(object sender, EventArgs e)
+    {
+        Shell.Current.GoToAsync("//TaxConfig");
+    }
     
 }

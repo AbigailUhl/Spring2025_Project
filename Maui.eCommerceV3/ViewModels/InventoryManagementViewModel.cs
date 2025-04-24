@@ -18,6 +18,7 @@ public class InventoryManagementViewModel : INotifyPropertyChanged
     public string? Query { get; set; }
     private ProductServiceProxy _svc = ProductServiceProxy.Current;
     public event PropertyChangedEventHandler? PropertyChanged;
+    public string SortOption { get; set; } = null; 
 
     public void NotifyPropertyChanged([CallerMemberName] string propertyName = "")
     {
@@ -38,7 +39,18 @@ public class InventoryManagementViewModel : INotifyPropertyChanged
         get
         {
             var filteredList = _svc.Products.Where(p => p?.Product?.Name?.ToLower().Contains(Query?.ToLower() ?? string.Empty) ?? false);
-            return new ObservableCollection<Item?>(filteredList);
+            IEnumerable<Item?> sortedList = filteredList;
+            if (!string.IsNullOrEmpty(SortOption))
+            {
+                sortedList = SortOption switch
+                {
+                    "Price: Low to High" => filteredList.OrderBy(p => p?.Product?.Price),
+                    "Price: High to Low" => filteredList.OrderByDescending(p => p?.Product?.Price),
+                    "Alphabetical (A-Z)" => filteredList.OrderBy(p => p?.Product?.Name),
+                    _ => filteredList
+                };
+            }
+            return new ObservableCollection<Item?>(sortedList);
         }
     }
 
