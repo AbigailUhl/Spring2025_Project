@@ -16,13 +16,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e4e23a6-e3d0-4785-932a-184a6083ecc9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Maui.eCommerceV3/Views/TaxConfigView.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maui.eCommerceV3/Views/TaxConfigView.xaml.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Spring2025_Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Spring2025_Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library.eCommerce/DTO/ProductDTO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/DTO/ProductDTO.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library.eCommerce/Models/Item.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/Models/Item.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library.eCommerce/Models/Product.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/Models/Product.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library.eCommerce/Services/ProductServiceProxy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/Services/ProductServiceProxy.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library.eCommerce/bin/Debug/net8.0-maccatalyst/Library.eCommerce.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/bin/Debug/net8.0-maccatalyst/Library.eCommerce.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library.eCommerce/bin/Debug/net8.0-maccatalyst/Library.eCommerce.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/bin/Debug/net8.0-maccatalyst/Library.eCommerce.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0-maccatalyst/Library.eCommerce.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0-maccatalyst/Library.eCommerce.AssemblyInfo.cs" afterDir="false" />
@@ -32,16 +26,8 @@
       <change beforePath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0-maccatalyst/Library.eCommerce.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0-maccatalyst/Library.eCommerce.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0-maccatalyst/ref/Library.eCommerce.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0-maccatalyst/ref/Library.eCommerce.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0-maccatalyst/refint/Library.eCommerce.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0-maccatalyst/refint/Library.eCommerce.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/MainPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/MainPage.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/MainPage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/MainPage.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/ViewModels/InventoryManagementViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/ViewModels/InventoryManagementViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/ViewModels/ProductViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/ViewModels/ProductViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/ViewModels/ShopManagementViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/ViewModels/ShopManagementViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/Views/InventoryManagementView.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/Views/InventoryManagementView.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/Views/InventoryManagementView.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/Views/InventoryManagementView.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/Views/ProductDetails.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/Views/ProductDetails.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/Views/ShopManagementView.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/Views/ShopManagementView.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/Views/ShopManagementView.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/Views/ShopManagementView.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0/Library.eCommerce.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0/Library.eCommerce.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0/Library.eCommerce.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Library.eCommerce/obj/Debug/net8.0/Library.eCommerce.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Library.eCommerce.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Library.eCommerce.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Library.eCommerce.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Library.eCommerce.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.app/Contents/MacOS/Maui.eCommerceV3" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.app/Contents/MacOS/Maui.eCommerceV3" afterDir="false" />
@@ -54,15 +40,11 @@
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/Maui.eCommerceV3.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/Maui.eCommerceV3.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/Maui.eCommerceV3.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/Maui.eCommerceV3.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/Maui.eCommerceV3.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-android/Maui.eCommerceV3.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-ios/iossimulator-arm64/Maui.eCommerceV3.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-ios/iossimulator-arm64/Maui.eCommerceV3.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-ios/iossimulator-arm64/Maui.eCommerceV3.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-ios/iossimulator-arm64/Maui.eCommerceV3.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-ios/iossimulator-arm64/Maui.eCommerceV3.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-ios/iossimulator-arm64/Maui.eCommerceV3.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Maui.eCommerceV3.pdb" afterDir="false" />
@@ -73,185 +55,6 @@
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/linked/Maui.eCommerceV3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/linked/Maui.eCommerceV3.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/ref/Maui.eCommerceV3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/ref/Maui.eCommerceV3.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/refint/Maui.eCommerceV3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/refint/Maui.eCommerceV3.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.CSharp.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Extensions.Configuration.Abstractions.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Extensions.Configuration.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Extensions.DependencyInjection.Abstractions.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Extensions.DependencyInjection.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Extensions.Logging.Abstractions.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Extensions.Logging.Debug.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Extensions.Logging.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Extensions.Options.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Extensions.Primitives.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.MacCatalyst.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Maui.Controls.Compatibility.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Maui.Controls.Xaml.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Maui.Controls.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Maui.Essentials.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Maui.Graphics.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Maui.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.VisualBasic.Core.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.VisualBasic.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Win32.Primitives.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Win32.Registry.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.AppContext.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Buffers.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Collections.Concurrent.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Collections.Immutable.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Collections.NonGeneric.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Collections.Specialized.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Collections.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.ComponentModel.Annotations.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.ComponentModel.DataAnnotations.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.ComponentModel.EventBasedAsync.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.ComponentModel.Primitives.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.ComponentModel.TypeConverter.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.ComponentModel.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Configuration.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Console.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Core.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Data.Common.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Data.DataSetExtensions.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Data.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Diagnostics.Contracts.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Diagnostics.Debug.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Diagnostics.DiagnosticSource.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Diagnostics.FileVersionInfo.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Diagnostics.Process.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Diagnostics.StackTrace.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Diagnostics.TextWriterTraceListener.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Diagnostics.Tools.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Diagnostics.TraceSource.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Diagnostics.Tracing.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Drawing.Primitives.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Drawing.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Dynamic.Runtime.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Formats.Asn1.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Formats.Tar.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Globalization.Calendars.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Globalization.Extensions.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Globalization.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.Compression.Brotli.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.Compression.FileSystem.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.Compression.ZipFile.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.Compression.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.FileSystem.AccessControl.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.FileSystem.DriveInfo.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.FileSystem.Primitives.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.FileSystem.Watcher.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.FileSystem.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.IsolatedStorage.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.MemoryMappedFiles.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.Pipes.AccessControl.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.Pipes.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.UnmanagedMemoryStream.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Linq.Expressions.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Linq.Parallel.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Linq.Queryable.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Linq.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Memory.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.Http.Json.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.Http.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.HttpListener.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.Mail.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.NameResolution.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.NetworkInformation.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.Ping.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.Primitives.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.Quic.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.Requests.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.Security.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.ServicePoint.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.Sockets.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.WebClient.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.WebHeaderCollection.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.WebProxy.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.WebSockets.Client.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.WebSockets.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Numerics.Vectors.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Numerics.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.ObjectModel.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Reflection.DispatchProxy.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Reflection.Emit.ILGeneration.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Reflection.Emit.Lightweight.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Reflection.Emit.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Reflection.Extensions.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Reflection.Metadata.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Reflection.Primitives.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Reflection.TypeExtensions.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Reflection.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Resources.Reader.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Resources.ResourceManager.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Resources.Writer.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.CompilerServices.Unsafe.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.CompilerServices.VisualC.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.Extensions.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.Handles.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.InteropServices.JavaScript.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.InteropServices.RuntimeInformation.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.InteropServices.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.Intrinsics.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.Loader.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.Numerics.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.Serialization.Formatters.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.Serialization.Json.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.Serialization.Primitives.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.Serialization.Xml.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.Serialization.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Security.AccessControl.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Security.Claims.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Security.Cryptography.Algorithms.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Security.Cryptography.Cng.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Security.Cryptography.Csp.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Security.Cryptography.Encoding.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Security.Cryptography.OpenSsl.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Security.Cryptography.Primitives.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Security.Cryptography.X509Certificates.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Security.Cryptography.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Security.Principal.Windows.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Security.Principal.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Security.SecureString.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Security.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.ServiceModel.Web.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.ServiceProcess.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Text.Encoding.CodePages.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Text.Encoding.Extensions.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Text.Encoding.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Text.Encodings.Web.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Text.Json.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Text.RegularExpressions.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Threading.Channels.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Threading.Overlapped.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Threading.Tasks.Dataflow.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Threading.Tasks.Extensions.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Threading.Tasks.Parallel.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Threading.Tasks.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Threading.Thread.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Threading.ThreadPool.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Threading.Timer.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Threading.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Transactions.Local.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Transactions.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.ValueTuple.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Web.HttpUtility.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Web.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Windows.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Xml.Linq.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Xml.ReaderWriter.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Xml.Serialization.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Xml.XDocument.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Xml.XPath.XDocument.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Xml.XPath.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Xml.XmlDocument.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Xml.XmlSerializer.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Xml.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/WindowsBase.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/mscorlib.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maui.eCommerceV3/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/netstandard.stamp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -403,6 +206,10 @@
       <workItem from="1745006901926" duration="7924000" />
       <workItem from="1745259887711" duration="1203000" />
       <workItem from="1745271017779" duration="11180000" />
+      <workItem from="1745519580581" duration="2562000" />
+      <workItem from="1745541370914" duration="389000" />
+      <workItem from="1745541801132" duration="227000" />
+      <workItem from="1745542171836" duration="477000" />
     </task>
     <servers />
   </component>
