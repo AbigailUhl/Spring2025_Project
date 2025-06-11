@@ -3,7 +3,7 @@ As a "vendor" you can mannage invenotry by using CRUD operations for items. Each
 adjust the tax rate for when a "consumer" purchases their shopping cart. As a "consumer" you are able to add items into your shopping cart, change quantity through 
 your shopping cart, and purchase the items in your shopping cart. This program is a high level process that simulates Ecommerce websites.
 
-Structure:
+Structure:            
 Library.eCommerce - Contains core logic, models, DTOs, and service classes.   
 Maui.eCommerceV3 - A modern cross-platform .NET MAUI frontend for the eCommerce app.   
 Spring2025_Project - A basic console application for quick testing or interaction with the core logic.   
