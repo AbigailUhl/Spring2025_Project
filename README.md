@@ -8,14 +8,14 @@ Library.eCommerce - Contains core logic, models, DTOs, and service classes.
 Maui.eCommerceV3 - A modern cross-platform .NET MAUI frontend for the eCommerce app.   
 Spring2025_Project - A basic console application for quick testing or interaction with the core logic.   
 
-Technologies Used:
+Technologies Used:                                             
 .NET 8, 
 .NET MAUI, 
 MVVM Design Pattern, 
 C#, 
 Visual Studio 2022, 
 
-How to Run:
+How to Run:                                           
 Clone the repository.
 Open the solution file: Spring2025_Project.sln.
 Set Maui.eCommerceV3 as the startup project.
