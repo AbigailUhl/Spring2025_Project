@@ -4,16 +4,16 @@ adjust the tax rate for when a "consumer" purchases their shopping cart. As a "c
 your shopping cart, and purchase the items in your shopping cart. This program is a high level process that simulates Ecommerce websites.
 
 Structure:
-Library.eCommerce/ - Contains core logic, models, DTOs, and service classes.
-Maui.eCommerceV3/ - A modern cross-platform .NET MAUI frontend for the eCommerce app.
-Spring2025_Project/ - A basic console application for quick testing or interaction with the core logic.
+Library.eCommerce - Contains core logic, models, DTOs, and service classes.   
+Maui.eCommerceV3 - A modern cross-platform .NET MAUI frontend for the eCommerce app.   
+Spring2025_Project - A basic console application for quick testing or interaction with the core logic.   
 
 Technologies Used:
-.NET 8
-.NET MAUI
-MVVM Design Pattern
-C#
-Visual Studio 2022
+.NET 8, 
+.NET MAUI, 
+MVVM Design Pattern, 
+C#, 
+Visual Studio 2022, 
 
 How to Run:
 Clone the repository.
