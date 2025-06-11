@@ -1,3 +1,4 @@
+Summary:                         
 This repository contains a .NET-based multi-layered eCommerce application developed as a final project for Spring 2025. You are able to act as a "vendor" or "consumer". 
 As a "vendor" you can mannage invenotry by using CRUD operations for items. Each item has a description that contains: name, quantity, and price. You are also able to 
 adjust the tax rate for when a "consumer" purchases their shopping cart. As a "consumer" you are able to add items into your shopping cart, change quantity through 
