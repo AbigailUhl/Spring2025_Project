@@ -1,8 +1,31 @@
 {
   "version": 2,
-  "dgSpecHash": "kkpMrFQl7lE=",
+  "dgSpecHash": "COn+JC+0//k=",
   "success": true,
   "projectFilePath": "/Users/abbyuhl/RiderProjects/Spring2025_Project/Library.eCommerce/Library.eCommerce.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/abbyuhl/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "/Users/abbyuhl/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/abbyuhl/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.1/microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "/Users/abbyuhl/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/Users/abbyuhl/.nuget/packages/microsoft.extensions.logging/8.0.1/microsoft.extensions.logging.8.0.1.nupkg.sha512",
+    "/Users/abbyuhl/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "/Users/abbyuhl/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "/Users/abbyuhl/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/abbyuhl/.nuget/packages/microsoft.maui.controls/8.0.100/microsoft.maui.controls.8.0.100.nupkg.sha512",
+    "/Users/abbyuhl/.nuget/packages/microsoft.maui.controls.build.tasks/8.0.100/microsoft.maui.controls.build.tasks.8.0.100.nupkg.sha512",
+    "/Users/abbyuhl/.nuget/packages/microsoft.maui.controls.core/8.0.100/microsoft.maui.controls.core.8.0.100.nupkg.sha512",
+    "/Users/abbyuhl/.nuget/packages/microsoft.maui.controls.xaml/8.0.100/microsoft.maui.controls.xaml.8.0.100.nupkg.sha512",
+    "/Users/abbyuhl/.nuget/packages/microsoft.maui.core/8.0.100/microsoft.maui.core.8.0.100.nupkg.sha512",
+    "/Users/abbyuhl/.nuget/packages/microsoft.maui.essentials/8.0.100/microsoft.maui.essentials.8.0.100.nupkg.sha512",
+    "/Users/abbyuhl/.nuget/packages/microsoft.maui.graphics/8.0.100/microsoft.maui.graphics.8.0.100.nupkg.sha512",
+    "/Users/abbyuhl/.nuget/packages/microsoft.maui.resizetizer/8.0.100/microsoft.maui.resizetizer.8.0.100.nupkg.sha512",
+    "/Users/abbyuhl/.nuget/packages/microsoft.net.illink.tasks/8.0.14/microsoft.net.illink.tasks.8.0.14.nupkg.sha512",
+    "/Users/abbyuhl/.nuget/packages/microsoft.netcore.app.ref/8.0.14/microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "/Users/abbyuhl/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.14/microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512",
+    "/Users/abbyuhl/.nuget/packages/microsoft.netcore.app.ref/8.0.14/microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "/Users/abbyuhl/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.14/microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512",
+    "/Users/abbyuhl/.nuget/packages/microsoft.maccatalyst.ref.net8.0_18.0/18.0.8319/microsoft.maccatalyst.ref.net8.0_18.0.18.0.8319.nupkg.sha512"
+  ],
   "logs": []
 }

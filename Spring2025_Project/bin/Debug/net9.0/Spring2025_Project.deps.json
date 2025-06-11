@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v9.0": {
       "Spring2025_Project/1.0.0": {
+        "dependencies": {
+          "Library.eCommerce": "1.0.0"
+        },
         "runtime": {
           "Spring2025_Project.dll": {}
+        }
+      },
+      "Library.eCommerce/1.0.0": {
+        "runtime": {
+          "Library.eCommerce.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "Spring2025_Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Library.eCommerce/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
